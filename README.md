@@ -1,6 +1,4 @@
 # hello-world
 Just another repository
 
-Branch 3 edits
-new commit within branch 3
-commit2 in branch 3
+Final commit 3 in branch 3
